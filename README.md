@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sebastian Salichs
 - 👀 I’m interested in Programming, Music Production & more!
-- 🌱 I’m currently learning Programming in C
+- 🌱 I’m currently learning Programming in C, as well as FL Studio as a hobby
 - ⚡ Fun fact: I am a twin!
 
 <!---
